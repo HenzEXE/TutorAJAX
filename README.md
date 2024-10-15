@@ -1,3 +1,3 @@
 # TutorAJAX
 
-Link Halaman : (https://henzexe.github.io/TutorAJAX/) [klik Disini]
+Link Halaman : [klik Disini](https://henzexe.github.io/TutorAJAX/)
